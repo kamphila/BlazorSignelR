@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4594138d-bae5-4641-91e9-0e337254f859": {
+      "ProjectGuid": "4594138d-bae5-4641-91e9-0e337254f859",
+      "DisplayName": "BlazorServerSignalRApp2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
